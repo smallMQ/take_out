@@ -1,4 +1,0 @@
-spring:
-  datasource:
-    name: jdbc:mysql://121.41.82.252:3306/reggie?useSSL=false
-
